@@ -1,0 +1,20 @@
+.breadcrumbs {
+  background-color:#041E42;
+  color:#D6D2C4;
+  width:40%;
+  float:right;
+  text-align:right;
+}
+
+.breadcrumbs ul {
+  list-style-type:none;
+  text-decoration:none;
+}
+
+.breadcrumbs ul li {
+  display:block;
+}
+
+.breadcrumbs .current {
+  font-weight:700;
+}
